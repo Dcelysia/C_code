@@ -1,0 +1,21 @@
+﻿  game.c
+D:\C language1\三子棋\三子棋\game.c(5,21): warning C4028: 形参 1 与声明不同
+D:\C language1\三子棋\三子棋\game.c(18,24): warning C4028: 形参 1 与声明不同
+D:\C language1\三子棋\三子棋\game.c(83,15): warning C4013: “rand”未定义；假设外部返回 int
+  text.c
+D:\C language1\三子棋\三子棋\text.c(20,17): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\C language1\三子棋\三子棋\text.c(20,12): warning C4024: “Initboard”: 形参和实参 1 的类型不同
+D:\C language1\三子棋\三子棋\text.c(22,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\C language1\三子棋\三子棋\text.c(22,15): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\C language1\三子棋\三子棋\text.c(25,13): warning C4013: “playermove”未定义；假设外部返回 int
+D:\C language1\三子棋\三子棋\text.c(26,21): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\C language1\三子棋\三子棋\text.c(26,16): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\C language1\三子棋\三子棋\text.c(27,12): warning C4013: “iswin”未定义；假设外部返回 int
+D:\C language1\三子棋\三子棋\text.c(30,15): warning C4013: “computerplay”未定义；假设外部返回 int
+D:\C language1\三子棋\三子棋\text.c(31,21): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\C language1\三子棋\三子棋\text.c(31,16): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\C language1\三子棋\三子棋\text.c(51,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+D:\C language1\三子棋\三子棋\text.c(51,15): warning C4024: “Displayboard”: 形参和实参 1 的类型不同
+D:\C language1\三子棋\三子棋\text.c(57,7): warning C4013: “srand”未定义；假设外部返回 int
+  正在生成代码...
+  三子棋.vcxproj -> D:\C language1\三子棋\Debug\三子棋.exe
