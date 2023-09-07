@@ -1,0 +1,4 @@
+﻿  game.c
+D:\C language1\practice\Project1\Project1\game.c(3,1): warning C4029: 声明的形参表不同于定义
+D:\C language1\practice\Project1\Project1\game.c(59,15): warning C4013: “rand”未定义；假设外部返回 int
+  Project1.vcxproj -> D:\C language1\practice\Project1\Debug\Project1.exe

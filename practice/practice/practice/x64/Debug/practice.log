@@ -1,0 +1,5 @@
+﻿  practice2.c
+D:\C language1\practice\practice\practice\practice2.c(553,19): warning C4013: “strtok”未定义；假设外部返回 int
+D:\C language1\practice\practice\practice\practice2.c(553,29): warning C4047: “=”:“char *”与“int”的间接级别不同
+D:\C language1\practice\practice\practice\practice2.c(553,67): warning C4047: “=”:“char *”与“int”的间接级别不同
+  practice.vcxproj -> D:\C language1\practice\practice\x64\Debug\practice.exe

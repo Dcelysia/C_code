@@ -1,0 +1,7 @@
+﻿  contact.c
+D:\C language1\practice\Contact\Contact\contact.c(59,25): warning C4028: 形参 1 与声明不同
+D:\C language1\practice\Contact\Contact\contact.c(60,1): warning C4029: 声明的形参表不同于定义
+D:\C language1\practice\Contact\Contact\contact.c(102,23): warning C4090: “函数”: 不同的“const”限定符
+  text.c
+  正在生成代码...
+  Contact.vcxproj -> D:\C language1\practice\Contact\Debug\Contact.exe
