@@ -1,0 +1,4 @@
+﻿  text.c
+E:\Vs_code practice\C-practice-10-1\text.c(141,19): warning C4133: “函数”: 从“Node *”到“ListNode *”的类型不兼容
+E:\Vs_code practice\C-practice-10-1\text.c(141,23): warning C4133: “函数”: 从“Node *”到“ListNode *”的类型不兼容
+  C-practice-10-1.vcxproj -> E:\Vs_code practice\C-practice-10-1\x64\Debug\C-practice-10-1.exe
