@@ -1,0 +1,3 @@
+﻿  practice.c
+E:\Vs_code practice\C-practice-10-11\practice.c(25,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  C-practice-10-11.vcxproj -> E:\Vs_code practice\C-practice-10-11\x64\Debug\C-practice-10-11.exe
