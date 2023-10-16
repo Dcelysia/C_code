@@ -1,0 +1,59 @@
+﻿  Fuduji.c
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(45,13): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(45,13): warning C4024: “InitFuduji”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(46,15): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(46,15): warning C4024: “Initxiaohong”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(47,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(47,14): warning C4024: “Inityoutiao”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(48,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(48,14): warning C4024: “Initheibang”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(49,11): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\Fuduji.c(49,11): warning C4024: “Initfuer”: 形参和实参 1 的类型不同
+  fuermosi.c
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(37,13): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(37,13): warning C4024: “InitFuduji”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(38,15): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(38,15): warning C4024: “Initxiaohong”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(39,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(39,14): warning C4024: “Inityoutiao”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(40,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(40,14): warning C4024: “Initheibang”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(41,11): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\fuermosi.c(41,11): warning C4024: “Initfuer”: 形参和实参 1 的类型不同
+  hanshu.c
+  heibang.c
+E:\Vs_code practice\C-practice-10-13\heibang.c(45,13): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(45,13): warning C4024: “InitFuduji”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(46,15): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(46,15): warning C4024: “Initxiaohong”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(47,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(47,14): warning C4024: “Inityoutiao”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(48,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(48,14): warning C4024: “Initheibang”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(49,11): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\heibang.c(49,11): warning C4024: “Initfuer”: 形参和实参 1 的类型不同
+  xiangmu.c
+  xiaohong.c
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(47,13): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(47,13): warning C4024: “InitFuduji”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(48,15): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(48,15): warning C4024: “Initxiaohong”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(49,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(49,14): warning C4024: “Inityoutiao”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(50,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(50,14): warning C4024: “Initheibang”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(51,11): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\xiaohong.c(51,11): warning C4024: “Initfuer”: 形参和实参 1 的类型不同
+  youtiao.c
+E:\Vs_code practice\C-practice-10-13\youtiao.c(46,13): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(46,13): warning C4024: “InitFuduji”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(47,15): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(47,15): warning C4024: “Initxiaohong”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(48,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(48,14): warning C4024: “Inityoutiao”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(49,14): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(49,14): warning C4024: “Initheibang”: 形参和实参 1 的类型不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(50,11): warning C4047: “函数”:“player *”与“player **”的间接级别不同
+E:\Vs_code practice\C-practice-10-13\youtiao.c(50,11): warning C4024: “Initfuer”: 形参和实参 1 的类型不同
+  正在生成代码...
+  C-practice-10-13.vcxproj -> E:\Vs_code practice\C-practice-10-13\x64\Debug\C-practice-10-13.exe
