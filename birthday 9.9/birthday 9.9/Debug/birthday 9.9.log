@@ -1,0 +1,6 @@
+﻿  源.c
+E:\Vs_code practice\birthday 9.9\birthday 9.9\源.c(18,35): warning C4305: “-=”: 从“double”到“float”截断
+E:\Vs_code practice\birthday 9.9\birthday 9.9\源.c(20,37): warning C4305: “+=”: 从“double”到“float”截断
+E:\Vs_code practice\birthday 9.9\birthday 9.9\源.c(37,17): warning C4133: “函数”: 从“char [6]”到“FILE *”的类型不兼容
+E:\Vs_code practice\birthday 9.9\birthday 9.9\源.c(156,26): warning C4305: “函数”: 从“__int64”到“DWORD”截断
+  birthday 9.9.vcxproj -> E:\Vs_code practice\birthday 9.9\Debug\birthday 9.9.exe
