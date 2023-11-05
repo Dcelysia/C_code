@@ -1,0 +1,4 @@
+﻿  源.c
+E:\Vs_code practice\scralet-10-27\源.c(118,9): warning C4047: “函数”:“int *”与“int [500][500]”的间接级别不同
+E:\Vs_code practice\scralet-10-27\源.c(118,9): warning C4024: “paixu”: 形参和实参 1 的类型不同
+  scralet-10-27.vcxproj -> E:\Vs_code practice\scralet-10-27\x64\Debug\scralet-10-27.exe
