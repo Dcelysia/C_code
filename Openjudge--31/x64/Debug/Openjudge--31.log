@@ -1,0 +1,3 @@
+﻿  源.c
+E:\Vs_code practice\Openjudge--31\源.c(98,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Openjudge--31.vcxproj -> E:\Vs_code practice\Openjudge--31\x64\Debug\Openjudge--31.exe
