@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\Vs_code practice\Openjudge--34\源.cpp(13,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Vs_code practice\Openjudge--34\源.cpp(32,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Vs_code practice\Openjudge--34\源.cpp(35,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+x64\Debug\源.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Openjudge--34.vcxproj -> E:\Vs_code practice\Openjudge--34\x64\Debug\Openjudge--34.exe
