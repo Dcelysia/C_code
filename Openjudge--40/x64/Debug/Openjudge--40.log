@@ -1,0 +1,4 @@
+﻿  源.c
+E:\Vs_code practice\Openjudge--40\源.c(91,14): warning C4305: “初始化”: 从“__int64”到“int”截断
+E:\Vs_code practice\Openjudge--40\源.c(100,14): warning C4305: “初始化”: 从“__int64”到“int”截断
+  Openjudge--40.vcxproj -> E:\Vs_code practice\Openjudge--40\x64\Debug\Openjudge--40.exe
